@@ -2,8 +2,8 @@
 
 
 <h3>Classification Algorithms</h3>
- <h5>A simple study to understand different classification algorithms.</h5><br/>
- <h5>House style column from the housing dataset is predicted using the following algorithms:</h5><br/>
+ <h5>A simple study to understand different classification algorithms.</h5>
+ <h5>House style column from the housing dataset is predicted using the following algorithms:</h5>
 
 <h5>1. Logistic Regression</h5>
 <h5>2. Standard Scaler</h5>
