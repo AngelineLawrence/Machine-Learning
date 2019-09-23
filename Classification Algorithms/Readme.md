@@ -9,3 +9,4 @@ House style column from the housing dataset is predicted using the following alg
 4. Gaussian Naive Bayes
 5. Decision Tree Classifier
 6. KNeighborsClassifier
+7. Support Vector Machine
